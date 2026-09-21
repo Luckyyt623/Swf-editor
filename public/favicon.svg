@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="SWF Studio">
+  <rect width="16" height="16" rx="3" fill="#0a0c10"/>
+  <path fill="#6d8fad" d="M5 2H2v12h3v-2H4V4h1V2zm9 0h-3v2h1v8h-1v2h3V2z"/>
+  <rect x="6" y="4" width="4" height="2" fill="#e6e8ee"/>
+  <rect x="6" y="7" width="3" height="2" fill="#c5ccd6"/>
+  <rect x="6" y="10" width="4" height="2" fill="#6d8fad"/>
+</svg>
