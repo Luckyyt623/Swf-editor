@@ -51,7 +51,7 @@ Inspired by [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/swf-studio.git
+git clone https://github.com/Luckyyt623/Swf-editor.git
 cd swf-studio
 npm install
 ```
